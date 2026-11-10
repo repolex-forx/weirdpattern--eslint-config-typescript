@@ -1,0 +1,11 @@
+{
+  "org": "weirdpattern",
+  "repo": "eslint-config-typescript",
+  "versions": [
+    {
+      "commit": "98ab70a46755f49dbd7981f848c526e27a362608",
+      "tag": "v3.0.0",
+      "parsed_at": "2026-11-10T00:55:12.268964+00:00"
+    }
+  ]
+}
