@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/weirdpattern/eslint-config-typescript/commit/98ab70a46755f49dbd7981f848c526e27a362608",
       "git:hexsha": "98ab70a46755f49dbd7981f848c526e27a362608",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.0.0"
     },
     {
